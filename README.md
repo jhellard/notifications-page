@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/jhellard/notifications-page)
-- Live Site URL: [Vercel](https://notifications-page-90fjkd4si-jhellard.vercel.app/)
+- Live Site URL: [Vercel](https://notifications-page-drab.vercel.app/)
 
 ## My process
 

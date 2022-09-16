@@ -41,7 +41,7 @@ const App = () => {
           </button>
         </header>
 
-        <section className="notifications">
+        <div className="notifications">
           <ul className="notifications__list">
             <li
               className="notifications__item active"
@@ -198,7 +198,7 @@ const App = () => {
               </div>
             </li>
           </ul>
-        </section>
+        </div>
       </main>
     </div>
   );
