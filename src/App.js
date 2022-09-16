@@ -45,7 +45,6 @@ const App = () => {
           <ul className="notifications__list">
             <li
               className="notifications__item active"
-              id="item"
               onClick={(e) => toggle(e)}
             >
               <img
@@ -68,7 +67,6 @@ const App = () => {
             </li>
             <li
               className="notifications__item active"
-              id="item"
               onClick={(e) => toggle(e)}
             >
               <img
@@ -87,7 +85,6 @@ const App = () => {
             </li>
             <li
               className="notifications__item active"
-              id="item"
               onClick={(e) => toggle(e)}
             >
               <img
@@ -109,7 +106,6 @@ const App = () => {
             </li>
             <li
               className="notifications__item"
-              id="item"
               onClick={(e) => toggle(e)}
             >
               <img
@@ -133,7 +129,7 @@ const App = () => {
             </li>
             <li
               className="notifications__item"
-              id="item"
+
               onClick={(e) => toggle(e)}
             >
               <img
@@ -158,7 +154,7 @@ const App = () => {
             </li>
             <li
               className="notifications__item"
-              id="item"
+
               onClick={(e) => toggle(e)}
             >
               <img
@@ -181,7 +177,7 @@ const App = () => {
             </li>
             <li
               className="notifications__item"
-              id="item"
+
               onClick={(e) => toggle(e)}
             >
               <img
